@@ -1,1 +1,1 @@
-# CS-460
+# Introduction to Database Systems
